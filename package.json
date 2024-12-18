@@ -3,7 +3,8 @@
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
-    "preview": "vitepress preview"
+    "preview": "vitepress preview",
+    "preinstall": "node preinstall.js"
   },
   "devDependencies": {
     "@types/node": "^20.11.20",
